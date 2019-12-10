@@ -1,0 +1,14 @@
+﻿body{
+margin:0px;
+padding:0px;
+display:flex;
+}
+
+
+.signup {
+position:absolute;
+bottom:50%;
+font-size:30px;
+right:20%;
+border: solid;
+}
